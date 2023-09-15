@@ -1,5 +1,4 @@
 # Duckboi
-its ducks
 <!DOCTYPE html>
 <html>
 <head>
